@@ -134,7 +134,7 @@ FROM
 (
   SELECT track_name, prime_genre, user_rating, rating_count_tot,
   RANK() OVER(PARTITION BY prime_genre ORDER BY user_rating/rating_count_tot) as top_rating
-  FROM sqlproject-403716.appleproject.applestore
+  FROM appstore
   WHERE rating_count_tot<>0
 ) as sub
 WHERE sub.top_rating=1
