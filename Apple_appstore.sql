@@ -128,15 +128,15 @@ WHERE prime_genre='Social Networking'
 ORDER BY rating_count_tot desc, rating_count_tot desc
 
 
--- Highest reated app with most ratings per category with rating count > 100000
+-- Highest reated app as user_rating/rating_count_tot
 SELECT track_name, prime_genre, user_rating, rating_count_tot
 FROM
 (
   SELECT track_name, prime_genre, user_rating, rating_count_tot,
-  RANK() OVER(PARTITION BY prime_genre ORDER BY user_rating DESC, rating_count_tot DESC) AS top_rating
-  FROM appstore
-  WHERE rating_count_tot>100000
-) AS sub
+  RANK() OVER(PARTITION BY prime_genre ORDER BY user_rating/rating_count_tot) as top_rating
+  FROM sqlproject-403716.appleproject.applestore
+  WHERE rating_count_tot<>0
+) as sub
 WHERE sub.top_rating=1
 ORDER BY prime_genre
 
