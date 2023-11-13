@@ -63,8 +63,11 @@ price for the apps is just under \$4.
 taken into consideration:
 
 - Include a longer description. Apps with longer descriptions tend to
-  have higher user ratings.
+  have higher user ratings (over 1000 characters).
 - Apps should support multiple languages. According the the analysis
   apps which supported between 10 and 20 languages. It would be
-  important to note that it is not the number of apps which is imporatnt
+  important to note that it is not the number of apps which is important
   but rather which languages are supported.
+- Paid apps have higher user ratings.
+- Apps with a content rating of 17+ have the lowest average rating
+  suggesting there is improvments for apps made for a mature audience.
