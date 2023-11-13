@@ -25,13 +25,12 @@ we can conclude between 10 and 20 supported langues have the highest
 average ratings. More research should be done as to what languages were
 used since the number of languages probably does not impact ratings but
 rather the languages used. The lowest rated apps were catalogs, finance,
-books, and navigation. **LOW BARRIER OF ENTRY**. When over viewing the
-app description the data shows a higher average rating if descriptions
-are longer which probably means the descriptions are in depth. The
-highest reated apps compared to the number of ratings are Kindle, Indeed
-Job Search, CPlus for Craigslist, Guess My Age, and NextFlix so it might
-we worthwhile to investigate these apps more to see what they have in
-common.
+books, and navigation. When over viewing the app description the data
+shows a higher average rating if descriptions are longer which probably
+means the descriptions are in depth. The highest reated apps compared to
+the number of ratings are Kindle, Indeed Job Search, CPlus for
+Craigslist, Guess My Age, and NextFlix so it might we worthwhile to
+investigate these apps more to see what they have in common.
 
 ### Recommendataions
 
