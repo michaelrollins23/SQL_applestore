@@ -58,3 +58,13 @@ include adds would may bring down the rating of apps. For this reason it
 would be worth looking into a quality app and charging a fee to show
 users the app is of higher quality. As far as pricing goes the average
 price for the apps is just under \$4.
+
+**3.** To optimize user ratings the following recommendations should be
+taken into consideration:
+
+- Include a longer description. Apps with longer descriptions tend to
+  have higher user ratings.
+- Apps should support multiple languages. According the the analysis
+  apps which supported between 10 and 20 languages. It would be
+  important to note that it is not the number of apps which is imporatnt
+  but rather which languages are supported.
