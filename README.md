@@ -43,12 +43,12 @@ ratings, and user engagement.
 To replicate the analysis or utilize the findings, follow the steps
 below:
 
-1)Clone the repository to your local machine.
+1) Clone the repository to your local machine.
 
-2)Set up the necessary environment and install the required
+2) Set up the necessary environment and install the required
 dependencies.
 
-3)Execute the SQL queries provided in the designated files to extract
+3) Execute the SQL queries provided in the designated files to extract
 insights from your own dataset.
 
 ## **Data Sources**
