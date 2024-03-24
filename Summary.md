@@ -18,7 +18,7 @@ The following are my recommendations for app developers.
 **2.** Two types of apps exist in the store, free apps and paid apps. The average rating for paid apps is higher than that of free apps. This could show users are utilizing these apps more or the quality of these apps are higher than that of free apps. We know a lot of free apps may include adds and may bring down the rating of apps. For this reason, it would be worth looking into a quality app and charging a fee to show users the app is of higher quality. As far as pricing goes the average price for the apps is just under \$4.
 **3.** To optimize user ratings the following recommendations should be taken into consideration:
 - Include a longer description. Apps with longer descriptions tend to have higher user ratings (over 1000 characters).
-- Apps should support multiple languages according to the analysis. Apps which supported between 10 and 20 languages had higher ratings. It is important to note that it is not the number of languages which is important but rather which languages are supported.\
+- Apps should support multiple languages according to the analysis. Apps which supported between 10 and 20 languages had higher ratings. It is important to note that it is not the number of languages which is important but rather which languages are supported.
 - Paid apps have higher user ratings.
 - Apps with a content rating of 17+ have the lowest average rating suggesting there are improvements for apps made for a mature audience.
 
